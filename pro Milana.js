@@ -36,7 +36,7 @@ function statistika2 () {
     return console.log("max = " , max, "min = ", min)
 }
 
-
+// run
 addNum ([5,'fs',6,44,true,564]);
 console.log(data);
 statistika();
